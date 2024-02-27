@@ -1,4 +1,15 @@
-**Grocery Management System**
+#**Grocery Management System**
+
+**Table of Contents**
+
+Overview
+Features
+Technologies Used
+Installation
+Usage
+Contributors
+
+**Overview**
 
 The Grocery Management System is a web-based application developed to streamline the management of grocery items, user accounts, orders, and communication between users and administrators. It provides a user-friendly interface for users to conveniently browse, purchase, and track groceries, It offers a comprehensive set of features to streamline the process of buying groceries online.
 
