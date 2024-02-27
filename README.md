@@ -3,12 +3,12 @@
 
 ## Table of Contents
 
- [Overview](#overview)
- [Features](#features)
- [Technologies Used](#technologies-used)
- [Installation](#installation)
- [Usage](#usage)
- [Contributors](#contributors)
+ - [Overview](#overview)
+ - [Features](#features)
+ - [Technologies Used](#technologies-used)
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [Contributors](#contributors)
 
 ## Overview
 
