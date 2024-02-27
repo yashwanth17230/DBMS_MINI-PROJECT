@@ -1,4 +1,4 @@
-#**Grocery Management System**
+**Grocery Management System**
 
 **Table of Contents**
 
@@ -16,10 +16,15 @@ The Grocery Management System is a web-based application developed to streamline
 **Features**
 
 User Authentication: Two types of users - admin and regular user. Each user has their own authentication and authorization levels.
+
 Product Management: Admin can add new products, update existing products, and remove products from the system.
+
 Shopping Cart: Users can add products to their shopping cart, modify quantities, and proceed to checkout.
+
 Wishlist: Users can add products to their wishlist for future reference.
+
 Order Management: Users can place orders for the products in their shopping cart. Admin can view and manage these orders, including shipping details.
+
 Messaging System: Users can send messages to the admin regarding any queries or issues.
 
 **Technologies Used**
@@ -43,7 +48,7 @@ Explore the functionalities such as adding products, managing cart, placing orde
 
 
 **Contributors**
-Yashwanth 
-Adarsh
-Brain Dsouza
-Ummarul Kathad
+1.Yashwanth 
+2.Adarsh
+3.Brain Dsouza
+4.Ummarul Kathad
