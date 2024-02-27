@@ -38,7 +38,7 @@ The Grocery Management System is a web-based application developed to streamline
 - Configure the database connection settings in config.php located in the includes directory.
 - Host the project on a local or remote server that supports PHP.
 - Access the project through your web browser.
-- 
+  
 ## Usage
 
 - For admin login, use the provided admin credentials.
