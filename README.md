@@ -1,6 +1,16 @@
 
 # Grocery Management System
 
+## Table of Contents
+
+ [Overview](#overview)
+ [Features](#features)
+ [Technologies Used](#technologies-used)
+ [Installation](#installation)
+ [Usage](#usage)
+ [Contributors](#contributors)
+
+## Overview
 
 The Grocery Management System is a web-based application developed to streamline the management of grocery items, user accounts, orders, and communication between users and administrators. It provides a user-friendly interface for users to conveniently browse, purchase, and track groceries, It offers a comprehensive set of features to streamline the process of buying groceries online.
 
@@ -17,10 +27,9 @@ The Grocery Management System is a web-based application developed to streamline
 
 **Frontend**: HTML, CSS, JavaScript
 
-**Backend:** PHP
+**Backend**: PHP
 
-**Database:** MySQL (PHPMyAdmin)
-
+**Database**: MySQL (PHPMyAdmin)
 
 ## Installation
 
@@ -29,6 +38,7 @@ The Grocery Management System is a web-based application developed to streamline
 - Configure the database connection settings in config.php located in the includes directory.
 - Host the project on a local or remote server that supports PHP.
 - Access the project through your web browser.
+- 
 ## Usage
 
 - For admin login, use the provided admin credentials.
@@ -37,7 +47,6 @@ The Grocery Management System is a web-based application developed to streamline
 
 
 ## Contributors
-
 
 - Yashwanth 
 - Adarsh
