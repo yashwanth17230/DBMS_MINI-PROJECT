@@ -8,7 +8,6 @@
  - [Technologies Used](#technologies-used)
  - [Installation](#installation)
  - [Usage](#usage)
- - [Contributors](#contributors)
 
 ## Overview
 
@@ -46,9 +45,3 @@ The Grocery Management System is a web-based application developed to streamline
 - Explore the functionalities such as adding products, managing cart, placing orders, etc.
 
 
-## Contributors
-
-- Yashwanth 
-- Adarsh
-- Brain Dsouza
-- Ummarul Kathad
